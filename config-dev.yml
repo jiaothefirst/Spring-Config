@@ -1,5 +1,5 @@
-server:
-  port: 8080
-config:
-  info: this is dev config
-
+server: 
+  port: 80
+spring:
+   application: 
+      name: hello
